@@ -1,7 +1,7 @@
 # 🔷 Smart Home Monitor — FPGA Design (Quartus / VHDL)
 
 Part of the **IoT Smart Home Monitor** project built on a DE10-Nano (Intel Cyclone V SoC) for the *Electronics for Embedded Systems* course at Politecnico di Torino (A.Y. 2025–2026).
-<img src="main.png" alt="Main Dashboard" style="width:80%; height:auto;">
+<img src="main.png" alt="Main Dashboard" style="width:100%; height:auto;">
 <br>
 
 This component contains the full FPGA design: five custom VHDL IP blocks integrated via Intel Platform Designer (Qsys), all accessible by the HPS ARM processor through the Lightweight AXI Bridge.
